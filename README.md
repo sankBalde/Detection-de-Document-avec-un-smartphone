@@ -4,6 +4,7 @@
 Ce projet est conçu pour détecter et suivre des documents dans des séquences vidéo à l'aide d'OpenCV.
 La solution inclut plusieurs fonctionnalités telles que la détection de documents, 
 la transformation de perspective et le traitement vidéo pour suivre les documents en temps réel.
+![doc_det.gif](videos%2Fdoc_det.gif)
 
 ## Dépendances
 Pour exécuter le code, assurez-vous d'avoir les dépendances suivantes installées :
